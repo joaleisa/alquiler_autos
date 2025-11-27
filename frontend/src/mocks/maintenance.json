@@ -1,0 +1,32 @@
+[
+  {
+    "id": "m001",
+    "vehicleId": "v001",
+    "vehicleName": "Toyota Corolla",
+    "startDate": "2025-10-10",
+    "endDate": "2025-10-12",
+    "type": "Preventivo",
+    "description": "Cambio de aceite y filtros. Rotación de cubiertas.",
+    "cost": 150
+  },
+  {
+    "id": "m002",
+    "vehicleId": "v002",
+    "vehicleName": "Volkswagen Golf",
+    "startDate": "2025-11-01",
+    "endDate": "2025-11-03",
+    "type": "Correctivo",
+    "description": "Reparación de tren delantero.",
+    "cost": 320
+  },
+  {
+    "id": "m003",
+    "vehicleId": "v001",
+    "vehicleName": "Toyota Corolla",
+    "startDate": "2025-11-15",
+    "endDate": null,
+    "type": "En progreso",
+    "description": "Revisión sistema de frenos.",
+    "cost": 0
+  }
+]

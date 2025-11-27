@@ -1,0 +1,33 @@
+backend/
+├── /routers/
+│   ├── vehiculos.py       # Endpoints para /vehiculos
+│   └── alquileres.py      # Endpoints para /alquileres
+│
+├── /models/
+│   ├── vehiculo.py        # class Vehiculo(Base): ... (SQLAlchemy)
+│   └── alquiler.py        # class Alquiler(Base): ... (SQLAlchemy)
+│
+├── /schemas/
+│   ├── vehiculo.py        # class VehiculoCreate(BaseModel): ... (Pydantic)
+│   └── alquiler.py        # class AlquilerRead(BaseModel): ... (Pydantic)
+│
+├── /repository/
+│   ├── vehiculo_repository.py  # class VehiculoRepository: def get(...)
+│   └── alquiler_repository.py
+│
+├── /core/                   <-- (NUEVO)
+│   ├── config.py          # Carga de variables de entorno (.env)
+│   └── database.py        # Config del Engine, SessionLocal y get_db()
+│
+├── /utils/
+│   └── ...                # Funciones auxiliares (ej. hashing)
+│
+├── /tests/                  <-- (NUEVO, para Pytest)
+│   ├── test_routers/
+│   │   └── test_vehiculos.py
+│   └── conftest.py        # Fixtures de Pytest (ej. db de prueba)
+│
+├── .env                   # Archivo de variables de entorno (BD_URL, SECRET_KEY)
+├── Dockerfile             # Instrucciones para construir la imagen de backend
+├── main.py                # Punto de entrada (crea app y monta routers)
+└── requirements.txt       # Lista de dependencias (fastapi, uvicorn, sqlalchemy...)

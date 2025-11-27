@@ -1,0 +1,16 @@
+{
+  "entry": ["src/main.{js,jsx,ts,tsx}", "vite.config.{js,ts}", "package.json"],
+
+  "project": ["src*.{js,jsx,ts,tsx}"],
+
+  "ignore": ["***.spec.{js,jsx,ts,tsx}", "**/node_modulesdistbuildcoverage/**"],
+
+  "rules": {
+    "files": "warn",
+    "dependencies": "warn",
+    "devDependencies": "warn",
+    "unlisted": "warn",
+    "exports": "off",
+    "types": "off"
+  }
+}

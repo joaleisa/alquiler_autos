@@ -1,0 +1,13 @@
+# Core de la API
+fastapi[standard]==0.113.0
+pydantic==2.8.0
+
+# Base de Datos (ORM + Driver MySQL)
+sqlalchemy==2.0.31
+pymysql==1.1.1
+
+# Configuración (para leer .env y variables de entorno)
+pydantic-settings==2.3.0
+
+passlib==1.7.4
+bcrypt==4.1.2

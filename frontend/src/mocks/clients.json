@@ -1,0 +1,42 @@
+[
+  {
+    "id": "c001",
+    "name": "Marcos Roldán",
+    "dni": "30.123.456",
+    "email": "marcos.roldan@example.com",
+    "phone": "351-1122334",
+    "status": "Activo"
+  },
+  {
+    "id": "c002",
+    "name": "Carla Giménez",
+    "dni": "32.456.789",
+    "email": "carla.gimenez@example.com",
+    "phone": "351-2233445",
+    "status": "Activo"
+  },
+  {
+    "id": "c003",
+    "name": "Esteban Cáceres",
+    "dni": "28.789.012",
+    "email": "esteban.caceres@example.com",
+    "phone": "351-3344556",
+    "status": "Inactivo"
+  },
+  {
+    "id": "c004",
+    "name": "Lucía Paez",
+    "dni": "34.012.345",
+    "email": "lucia.paez@example.com",
+    "phone": "351-4455667",
+    "status": "Activo"
+  },
+  {
+    "id": "c005",
+    "name": "David Acosta",
+    "dni": "31.345.678",
+    "email": "david.acosta@example.com",
+    "phone": "351-5566778",
+    "status": "Activo"
+  }
+]

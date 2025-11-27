@@ -1,0 +1,32 @@
+[
+  {
+    "id": "i001",
+    "rentalId": "r001",
+    "clientName": "Marcos Roldán",
+    "vehicleName": "Toyota Corolla",
+    "type": "Daño",
+    "description": "Rayadura en el paragolpes trasero.",
+    "cost": 180,
+    "date": "2025-11-25"
+  },
+  {
+    "id": "i002",
+    "rentalId": "r002",
+    "clientName": "Carla Giménez",
+    "vehicleName": "Volkswagen Golf",
+    "type": "Multa",
+    "description": "Multa por exceso de velocidad en Av. Circunvalación.",
+    "cost": 120,
+    "date": "2025-11-23"
+  },
+  {
+    "id": "i003",
+    "rentalId": "r003",
+    "clientName": "Lucía Paez",
+    "vehicleName": "Toyota Corolla",
+    "type": "Daño",
+    "description": "Mancha de café en tapizado de asiento trasero.",
+    "cost": 75,
+    "date": "2025-12-10"
+  }
+]

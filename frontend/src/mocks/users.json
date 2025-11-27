@@ -1,0 +1,20 @@
+[
+  {
+    "userId": "u001",
+    "employeeId": "e001",
+    "username": "lbenitez",
+    "employeeName": "Laura Benítez"
+  },
+  {
+    "userId": "u002",
+    "employeeId": "e002",
+    "username": "mherrera",
+    "employeeName": "Martín Herrera"
+  },
+  {
+    "userId": "u003",
+    "employeeId": "e003",
+    "username": "spaz",
+    "employeeName": "Sofía Paz"
+  }
+]

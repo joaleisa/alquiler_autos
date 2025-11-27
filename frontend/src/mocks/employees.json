@@ -1,0 +1,34 @@
+[
+  {
+    "id": "e001",
+    "name": "Laura Benítez",
+    "dni": "28.123.456",
+    "email": "laura.benitez@car-doba.com",
+    "phone": "351-9876543",
+    "cargo": "Gerente de Sucursal"
+  },
+  {
+    "id": "e002",
+    "name": "Martín Herrera",
+    "dni": "30.456.789",
+    "email": "martin.herrera@car-doba.com",
+    "phone": "351-8765432",
+    "cargo": "Agente de Alquileres"
+  },
+  {
+    "id": "e003",
+    "name": "Sofía Paz",
+    "dni": "33.789.012",
+    "email": "sofia.paz@car-doba.com",
+    "phone": "351-7654321",
+    "cargo": "Agente de Alquileres"
+  },
+  {
+    "id": "e004",
+    "name": "Diego Alonso",
+    "dni": "29.012.345",
+    "email": "diego.alonso@car-doba.com",
+    "phone": "351-6543210",
+    "cargo": "Técnico de Mantenimiento"
+  }
+]

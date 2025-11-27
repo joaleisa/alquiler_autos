@@ -1,0 +1,62 @@
+{
+  "kpis": {
+    "totalRevenue": 48500,
+    "totalRentals": 120,
+    "activeClients": 75,
+    "availableVehicles": 22
+  },
+  "monthlyRevenue": [
+    { "month": "Ene", "total": 4500 },
+    { "month": "Feb", "total": 3200 },
+    { "month": "Mar", "total": 5100 },
+    { "month": "Abr", "total": 4800 },
+    { "month": "May", "total": 6200 },
+    { "month": "Jun", "total": 5900 },
+    { "month": "Jul", "total": 7100 },
+    { "month": "Ago", "total": 6800 },
+    { "month": "Sep", "total": 8100 },
+    { "month": "Oct", "total": 9200 },
+    { "month": "Nov", "total": 7300 },
+    { "month": "Dic", "total": 0 }
+  ],
+  "popularVehicles": [
+    { "name": "Toyota Corolla", "rentals": 45 },
+    { "name": "VW Golf", "rentals": 30 },
+    { "name": "Ford Ranger", "rentals": 25 },
+    { "name": "Otro", "rentals": 20 }
+  ],
+  "detailedRentals": [
+    {
+      "clientName": "Marcos Roldán",
+      "rentalId": "r001",
+      "vehicleName": "Toyota Corolla",
+      "startDate": "2025-11-20",
+      "endDate": "2025-11-25",
+      "total": 225
+    },
+    {
+      "clientName": "Carla Giménez",
+      "rentalId": "r002",
+      "vehicleName": "Volkswagen Golf",
+      "startDate": "2025-11-22",
+      "endDate": "2025-11-24",
+      "total": 80
+    },
+    {
+      "clientName": "Lucía Paez",
+      "rentalId": "r003",
+      "vehicleName": "Toyota Corolla",
+      "startDate": "2025-12-01",
+      "endDate": "2025-12-10",
+      "total": 450
+    },
+    {
+      "clientName": "Lucía Paez",
+      "rentalId": "r008",
+      "vehicleName": "Ford Ranger",
+      "startDate": "2025-12-12",
+      "endDate": "2025-12-13",
+      "total": 180
+    }
+  ]
+}

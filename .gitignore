@@ -1,0 +1,8 @@
+/.idea
+/.vscode
+/.venv
+__pycache__
+
+backend/certificados/client-cert.pem
+backend/certificados/client-key.pem
+backend/certificados/server-ca.pem

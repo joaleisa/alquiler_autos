@@ -1,0 +1,38 @@
+[
+  {
+    "id": "f001",
+    "rentalId": "r001",
+    "clientName": "Marcos Roldán",
+    "issueDate": "2025-11-25T10:00:00",
+    "total": 225,
+    "paymentMethod": "Tarjeta de Crédito",
+    "status": "COBRADA"
+  },
+  {
+    "id": "f002",
+    "rentalId": "r002",
+    "clientName": "Carla Giménez",
+    "issueDate": "2025-11-24T14:00:00",
+    "total": 80,
+    "paymentMethod": "Efectivo",
+    "status": "COBRADA"
+  },
+  {
+    "id": "f003",
+    "rentalId": "r003",
+    "clientName": "Lucía Paez",
+    "issueDate": "2025-12-10T09:00:00",
+    "total": 450,
+    "paymentMethod": "Transferencia",
+    "status": "NO COBRADA"
+  },
+  {
+    "id": "f004",
+    "rentalId": "r005",
+    "clientName": "David Acosta",
+    "issueDate": "2025-12-15T11:00:00",
+    "total": 360,
+    "paymentMethod": "N/A",
+    "status": "NO COBRADA"
+  }
+]
